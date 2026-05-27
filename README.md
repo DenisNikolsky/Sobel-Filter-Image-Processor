@@ -23,3 +23,9 @@
    ```bash
    git clone https://github.com/yourusername/sobel-filter-app.git
    cd sobel-filter-app
+2. Установите зависимости:
+   ```bash
+   pip install opencv-python numpy
+3. Запустите приложение:
+   ```bash
+   python Interface.py
