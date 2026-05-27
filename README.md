@@ -21,8 +21,8 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/sobel-filter-app.git
-   cd sobel-filter-app
+   git clone https://github.com/DenisNikolsky/Sobel-Filter-Image-Processor.git
+   cd Sobel-Filter-Image-Processor
 2. Установите зависимости:
    ```bash
    pip install opencv-python numpy
